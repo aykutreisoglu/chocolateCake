@@ -1,0 +1,1 @@
+## HTML ve çok az da CSS kullanılarak oluşturulan basit bir websitesi.
