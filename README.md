@@ -2,6 +2,6 @@
 
 Aşağıdaki resimde bitmiş hali gözükmektedir.
 
-![chocolateCake](https://github.com/aykutreisoglu/chocolateCake/blob/main/figures/chocolateCake/.PNG)
+![chocolateCake](https://github.com/aykutreisoglu/chocolateCake/blob/main/figures/chocolateCake.PNG)
 
 
